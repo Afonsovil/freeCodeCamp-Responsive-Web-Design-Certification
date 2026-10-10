@@ -1,0 +1,1 @@
+The code I created respects more the structure of HTML and is more organized and represents grouping content, while the second one is more focused styling purposes.
