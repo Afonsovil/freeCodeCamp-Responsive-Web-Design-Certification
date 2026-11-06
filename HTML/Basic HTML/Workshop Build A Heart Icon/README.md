@@ -1,0 +1,1 @@
+In order to test how I would do this without help, I searched "how to create a heart icon svg" and found out this [tutorial](https://css-tricks.com/handwriting-an-svg-heart-with-our-hearts/), which I followed and remove somethings to appear better.
